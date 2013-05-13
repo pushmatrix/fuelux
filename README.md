@@ -38,7 +38,7 @@ Fuel UX provides all of the styles and plugins from the revolutionary [Twitter B
 
 ### Live docs and demos
 
-Hosted on GitHub pages: http://exacttarget.github.com/fuelux
+I am testing this.
 
 ### Richest of documentation
 
